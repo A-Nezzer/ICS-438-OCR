@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 import json
 
 def categorize_receipt(receipt):
