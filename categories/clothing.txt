@@ -1,0 +1,14 @@
+T-shirts, Jeans, Pants, Shirts
+Sweaters, Hoodies, Jackets, Blazers, Raincoats
+Sweats, Loungewear
+Dresses, Skirts, Jumpsuits
+Leggings, Athletic wear, Suits, Vest
+Bra, Socks, Underwear, tights
+Pajamas, Nightgowns
+Swimwear, bathing suit
+Scarves, Caps, Beanies, Hats, Gloves, Belts, Ties
+Handbags, Purse, Backpacks
+Sneakers, Boots, Sandals, Heels, Slippers
+Earrings, Necklace, Bracelet, Watch, Rings
+Glasses, Sunglasses
+Scrunchies, Hair Band, Headband, Bandana, Bows, Choker

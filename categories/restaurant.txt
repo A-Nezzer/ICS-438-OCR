@@ -1,0 +1,36 @@
+Salad, Calamari, Maki, Tempura
+Dumplings, Fish, Fried, Shrimp, tofu
+Cheeseburger, Orange Chicken, Burgers, Chicken
+Pizza, Sandwiches, Hot Dogs
+Tacos, Burritos, Quesadillas, Nachos
+Shake, Ice cream, Milkshakes
+Cookies, Pie, slice
+Eggs, Pancakes, sausage
+Tea, Sauce
+Service Charge, Tip, happy
+Taco Bell
+Mcdonalds
+Chick Fil A
+Leahi Health
+Burger King
+Starbucks
+Subway
+Jersey Mike’s
+KFC (Kentucky Fried Chicken)
+Taco Bell
+Wendy's
+Jack in the Box
+Domino's Pizza
+Pizza Hut
+Panda Express
+Dairy Queen
+Sonic Drive-In
+Dunkin' Donuts
+Hot Chocolate
+Latte, Americano
+Matcha, Chai, Water, soda
+Espresso, Macchiato
+Cold Brew, Lemonade, Iced Tea
+Coffee, Frappuccino
+Scone, Croissant, Sandwich
+Muffin, Brownie, Cake 

@@ -1,0 +1,31 @@
+Noodle, Fried rice, Rice Cake, Toppoki
+Pecans, Milk, Peanut Butter, Chocolate
+Oreo, Trolli, candy
+Teabag, Water, mix, teabag
+Candy, Nuts, Doritos
+Cheese, Yogurt, Bread, Pastries, Ice Cream
+Canned Soup, Canned Soda, Bottled
+Napkins, Paper Towels, Detergent
+Apples, Bananas, Melon
+Oranges, Tomatoes, Potatoes, 
+Onions, Carrots, Avocado, 
+Chicken Breasts, Ground Beef
+Pork Chops, Salmon Fillets, Shrimp
+Frozen Vegetables, Frozen Fruits, Frozen Pizza, Frozen Meals
+Butter, Cheese, Eggs 
+Almond Milk, Soy Milk, Milk
+Crackers, Popcorn, Trail Mix, Granola Bars
+Pretzels, Flour, Sugar, Baking Powder
+Chocolate Chips, Cooking Oil, Ketchup, Mustard
+Mayonnaise,  Salad Dressing, Bagged Rice
+Pasta Sauce, Dry Pasta, Quinoa, Oats, Cereals
+Beans, Canned Fish, Corn, 
+Dish Soap, All-Purpose Cleaner, 
+Trash Bags, Aluminum Foil, Ziplock Bags
+Tofu, Pickled, Ginger, Garlic
+H-Mart
+Walgreens
+Longs
+Walmart
+Target
+Sam’s Club
